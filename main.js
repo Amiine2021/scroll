@@ -14,6 +14,6 @@ this.onclick = function(){
     scroll({
         left:0,
         top:0,
-        behavior: 'smooth'
+        behavior: "instant"
     })
 }
